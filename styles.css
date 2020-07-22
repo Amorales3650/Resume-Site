@@ -10124,10 +10124,11 @@ p.lead {
     border-radius: 8px;
     font-family: "Saira Extra Condensed";
     color: #000;
-    font-size: 70px;
+    font-size: 55px;
   padding: 10px 20px 10px 20px;
     text-decoration: none;
 align-items: center;
+  white-space: nowrap;
 
   }
 
@@ -10141,7 +10142,7 @@ align-items: center;
     text-decoration: none;
   }
   .contact-me{
-    margin-left: 50%;
+    margin-left: 10%;
     margin-bottom: 300px;
     display: inline-block;
     margin-top: 40px;
