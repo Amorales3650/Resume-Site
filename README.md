@@ -1,5 +1,5 @@
-# Resume-Site
-My Personal Resume Website
+# Practice-Resume-Site
+ //===================//
+ A Resume Website
 
 
-Its me its ya boi.
